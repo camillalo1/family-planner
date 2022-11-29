@@ -1,8 +1,15 @@
 table, tr, td, th {
     border: 1px solid lightgray;
     border-collapse: collapse;
+    width: 100%;
 }
 
 td, th {
     padding: 4px;
+    height: 40px;
+    width: 12%;
+}
+
+th{
+    background-color: aquamarine;
 }
